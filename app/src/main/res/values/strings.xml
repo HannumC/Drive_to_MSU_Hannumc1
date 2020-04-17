@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Drive_to_MSU_Hannumc1</string>
+    <string name="appDiscr">This app will give you driving directions from your current location to Montclair State University.</string>
+    <string name="SubButton">Drive to MSU</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
